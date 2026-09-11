@@ -8,6 +8,14 @@ I combine product discovery, specifications, rapid prototyping, analytics, QA, a
 
 ## Selected shipped work
 
+### [Threads & Instagram Autoposter — public source](https://github.com/tematibur/threads-autoposter)
+
+A serverless publishing pipeline using the official Meta APIs and GitHub Actions. It renders content, publishes on a schedule, prevents duplicates, and commits durable state back to Git.
+
+- Repository history records **121 Threads posts**, **90 Instagram carousels**, and **209 automated publishing commits**.
+- Runs without a server or an always-on computer.
+- Keeps tokens in GitHub Actions Secrets and serializes jobs with concurrency controls.
+
 ### [DM Simulator — live AI product](https://dm-simulator-coral.vercel.app/)
 
 A browser-based sales-training and product-demo tool. Give it a public Instagram profile or website, review the extracted business persona, and role-play a realistic DM conversation with an AI setter.
@@ -41,7 +49,7 @@ A responsive real-estate discovery experience covering property search, listing 
 - Took an AI B2B product from idea to production in **2 months**, owning feature definition, acceptance criteria, QA, onboarding, and release decisions.
 - Specified and shipped an internal quoting product with one developer: **15 daily users**, **3 releases in 25 days**, and a 12-page branded PDF generated from margin, commission, and VAT rules.
 - Delivered **50+ websites and landing pages** end to end, including discovery, scope, launch, SEO, analytics, and conversion tracking.
-- Built data and content workflows covering **23,431 qualified business records** and **109 consecutive successful automation runs**.
+- Built data and content workflows covering **23,431 qualified business records** and **209 automated publishing commits**.
 
 ## How I work
 
